@@ -1,9 +1,10 @@
 @import url(./asset/css/styles.css);
+@import url(./asset/css/mobile.css);
+@import url(./asset/css/tablette.css);
 
 :root{
+    font-family: Arial, sans-serif;
     text-align: center;
+    text-wrap: nowrap;
+    color: rgb(255, 255, 255);
 }
-
-h1{color: white;}
-h2{color: white;}
-h3{color: white;}
