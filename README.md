@@ -1,6 +1,6 @@
-## Exercice : Création de la version Responsive du site
+# Exercice : Création de la version Responsive du site
 
-### ADAPTATION RESPONSIVE (HTML & CSS)
+# ADAPTATION RESPONSIVE (HTML & CSS)
 
 1. Choix réalisés pour adapter le site
 
@@ -35,33 +35,33 @@
 
 3. Modifications principales du layout
 
-   # Structure globale
+   ## Structure globale
 
    Passage d’un layout fixe à un layout flexible avec Flexbox et utilisation de "flex-direction" pour gérer les changements :
    - row (desktop)
    - column (mobile et tablette)
 
-   # Header et Footer
+   ## Header et Footer
 
    Largeur de 100% sur tous les écrans et hauteur de 5em pour un ajustement en fontion du contenu.
 
-   # Navigation
+   ## Navigation
 
    - Desktop : barre latérale (20%)
    - Mobile / Tablette : barre horizontale (100%)
 
-   # Section Hero
+   ## Section Hero
 
    - Adaptation automatique de la largeur
    - Alignement vertical
    - Bouton stylisé avec une marge intérieure (paddind) de 0.5em haut-bas et 1.5em gauche-droite
 
-   # Liste des services
+   ## Liste des services
 
    - Desktop : affichage horizontal
    - Mobile / Tablette : affichage vertical (flex-direction: column)
    - Chaque service concerve un aspect-ratio de 6/3 et prend toute la largeur sur petits écrans
 
-   # Centrage et lisibilité
+   ## Centrage et lisibilité
 
    Réduction des largeurs sur tablette et ajout de marges automatiques (margin: auto) pour améliorer le confort visuel
