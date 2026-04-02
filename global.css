@@ -1,6 +1,7 @@
 @import url(./asset/css/styles.css);
 @import url(./asset/css/mobile.css);
 @import url(./asset/css/tablette.css);
+@import url(./asset/css/watch.css);
 
 :root{
     font-family: Arial, sans-serif;
